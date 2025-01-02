@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on SQL 
-- 📫 How to reach me viram88@gmail.com
+- 📫 How to reach me 24f2008956@ds.study.iitm.ac.in 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
